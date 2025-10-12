@@ -3,7 +3,7 @@ title: "LED-Sockel"
 date: "2018-10-01T15:01:56.000Z"
 tags: 
   - "output"
-coverImage: "64_led-sockel.jpg"
+coverImage: "64_led-sockel.png"
 material_number: "64"
 material_type: "output"
 material_short_descr: "Seeed Studio Grove – White LED"
