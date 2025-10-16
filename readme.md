@@ -36,8 +36,6 @@ https://www.youtube.com/watch?v=ITsk6dPSsqA
 
 <!-- infolist -->
 
-<!-- infolists -->
-
 ## Wichtige Links für die ersten Schritte:
 
 - [Seeed Studio Wiki](http://wiki.seeedstudio.com/Grove-LED_Socket_Kit/) [- LED Sockel](http://wiki.seeedstudio.com/Grove-LED_Socket_Kit/)
