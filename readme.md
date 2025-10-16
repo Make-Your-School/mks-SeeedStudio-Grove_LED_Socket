@@ -34,7 +34,17 @@ Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und alle notwend
 https://www.youtube.com/watch?v=ITsk6dPSsqA
 
 
+
+## Beispiel
+
+schau dir das Minimal-Beispiel an:
+
+```c++:public/mks/parts/mks-SeeedStudio-Grove_LED_Socket/examples/Grove_LED_Socket_minimal/Grove_LED_Socket_minimal.ino
+// look in the linked file.
+```
+
 <!-- infolist -->
+
 
 ## Wichtige Links für die ersten Schritte:
 
