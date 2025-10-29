@@ -15,9 +15,6 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_LED_Socket
 repo_prefix: "mks"
 repo_part: "Grove_LED_Socket"
 embedded_example_file: "examples/Grove_LED_Socket_minimal/Grove_LED_Socket_minimal.ino"
-title: 'LED-Sockel'
-status: 'active'
-difficulty: 'recommend'
 ---
 
 
